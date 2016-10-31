@@ -1,0 +1,66 @@
+.maincalc{
+	width: 510px;
+	margin 2px;
+	height: 300px;
+	float:left;
+	background-color: #baacc7;
+}
+.result{
+	background-color: white;
+	border: solid 1px;
+	height: 60px;
+	width: 500px;
+	font-size: 28px;
+	float: top;
+}
+.keys{
+	width: 500px;
+	border: solid 1px gray;
+	height: 230px;
+}
+.fnkeys{
+	width: 300px;
+	float: left;
+	margin: 2px;
+	border: solid 1px gray;
+	height: 185px;
+}
+.numberkeys{
+	width:  150px;
+	float: right;
+	border: solid 1px gray;
+	margin: 2px;
+	height: 185px;
+}
+.memory{
+	float: left;
+	width: 500px;
+	font-size: 18px;
+	border: solid 1px gray;
+	height: 40px;
+}
+.key-n{
+	width: 40px;
+	height: 40px;
+	background-color: gray;
+	margin: 2px;
+	font-weight: bold;
+	font-size: 14px;
+}
+.key-n:hover{
+	background-color: white;
+}
+.key-f{
+	width: 50px;
+	height: 40px;
+	margin: 2px;
+	font-weight: bold;
+	font-size: 14px;
+}
+.key-m{
+	width: 50px;
+	height: 40px;
+	margin: 2px;
+	font-weight: bold;
+	font-size: 14px;
+}
