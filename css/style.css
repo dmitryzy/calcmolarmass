@@ -64,3 +64,36 @@
 	font-weight: bold;
 	font-size: 14px;
 }
+.groupheader{
+	height: 20px;
+	width: 80px;
+	position: relative;
+	color: black;
+	background-color: white;
+	float:left;*/
+	font-size: 12px;
+	margin: 4px;
+	border: 2px solid;
+	text-align: center;
+}
+.elementcell{
+	/*height: 80px;
+	width: 80px;
+	*/
+	position: relative;
+	color: black;
+	background-color: white;
+	float:left;*/
+	font-size: 12px;
+	margin: 4px;
+	border: 2px solid;
+	text-align: center;
+}
+table#result{
+	border: 1px solid;
+	text-align: center;
+	border-collapse: collapse;
+}
+td{
+	border 1px solid black;
+}
